@@ -103,7 +103,7 @@ Built with:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wennerl77&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-wenner1.vercel.app/api?username=wennerl77&show_icons=true" />
 </p>
 
 ---
