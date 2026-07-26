@@ -110,9 +110,9 @@ Built with:
 
 ## 📫 Contact
 
-LinkedIn: [your-linkedin]
+LinkedIn: www.linkedin.com/in/wenner-lucas
 
-Email: your-email
+Email: contato.wennerlucas@gmail.com
 
 ---
 
