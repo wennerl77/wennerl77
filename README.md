@@ -46,7 +46,6 @@
         <li>Serviços isolados e orquestrados com Docker Compose, com Caddy como proxy reverso</li>
       </ul>
       <p><strong>Stack:</strong> <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>PostgreSQL</code> <code>Docker Compose</code> <code>Caddy</code></p>
-      <p><a href="https://www.sejamosaico.com.br/">Acessar Site →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🔎 <a href="https://github.com/wennerl77/spring-inspector">Spring Inspector</a></h3>
@@ -58,7 +57,6 @@
         <li>Relatório de qualidade de código direto no terminal</li>
       </ul>
       <p><strong>Stack:</strong> <code>Java</code> <code>JavaParser</code> <code>Picocli</code> <code>Spring Framework</code></p>
-      <p><a href="https://github.com/wennerl77/spring-inspector">Acessar Repositório →</a></p>
     </td>
   </tr>
   <tr>
@@ -71,7 +69,6 @@
         <li>Testes e ambiente automatizados com Shell e Makefile</li>
       </ul>
       <p><strong>Stack:</strong> <code>Python</code> <code>C++</code> <code>PLpgSQL</code> <code>Shell</code> <code>Makefile</code></p>
-      <p><a href="https://github.com/wennerl77/jams">Acessar Repositório →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌙 <a href="https://github.com/wennerl77/cidade-dorme">Cidade Dorme</a> <small><em>(Em dev)</em></small></h3>
@@ -82,7 +79,6 @@
         <li>Sincronização do estado da partida com baixa latência</li>
       </ul>
       <p><strong>Stack:</strong> <code>TypeScript</code> <code>WebSockets</code></p>
-      <p><a href="https://github.com/wennerl77/cidade-dorme">Acessar Repositório →</a></p>
     </td>
   </tr>
 </table>
