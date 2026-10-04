@@ -93,7 +93,7 @@
       <p><a href="https://github.com/wennerl77/spring-inspector">Acessar Repositório →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/Mosaico-br/Mosaico">Mosaico</a></h3>
+      <h3>🛒 <a href="https://www.sejamosaico.com.br/">Mosaico</a></h3>
       <p>Plataforma backend robusta de <strong>marketplace para pequenos feirantes e produtores locais</strong>.</p>
       <ul>
         <li>Autenticação stateless com JWT e controle de acessos (RBAC)</li>
@@ -102,7 +102,7 @@
         <li>Orquestração e isolamento de serviços via Docker Compose e Caddy</li>
       </ul>
       <p><strong>Stack:</strong> <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>PostgreSQL</code> <code>Docker Compose</code></p>
-      <p><a href="https://github.com/Mosaico-br/Mosaico">Acessar Repositório →</a></p>
+      <p><a href="https://www.sejamosaico.com.br/">Acessar Site →</a></p>
     </td>
   </tr>
   <tr>
